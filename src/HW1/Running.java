@@ -12,4 +12,3 @@ public class Running extends Challenge {
         }
 
 }
-
