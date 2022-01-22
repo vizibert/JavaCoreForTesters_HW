@@ -1,7 +1,6 @@
 package HW1;
 
 public class Jumping extends Challenge {
-
     public Jumping(int difficulty) {
         super(difficulty);
     }

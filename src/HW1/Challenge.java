@@ -1,7 +1,6 @@
 package HW1;
 
 public abstract class Challenge {
-
         private int difficulty;
 
         public Challenge(int difficulty) {
